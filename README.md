@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 # String
 |  |
 | ------- |
@@ -46,3 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
