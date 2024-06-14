@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1580-shuffle-the-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1580-shuffle-the-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Tree
 |  |
 | ------- |
@@ -30,3 +31,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2470-removing-stars-from-a-string) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
