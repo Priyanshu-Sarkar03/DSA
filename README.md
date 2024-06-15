@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 # String
 |  |
 | ------- |
@@ -52,3 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
