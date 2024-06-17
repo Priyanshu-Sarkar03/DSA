@@ -63,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
