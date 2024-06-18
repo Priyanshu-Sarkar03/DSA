@@ -14,18 +14,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 # String
@@ -59,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 # Math
@@ -74,3 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+# Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
