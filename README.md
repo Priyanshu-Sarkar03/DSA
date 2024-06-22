@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1580-shuffle-the-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1635-number-of-good-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Tree
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1635-number-of-good-pairs) |
 # Depth-First Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1635-number-of-good-pairs) |
 # Two Pointers
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1635-number-of-good-pairs) |
 # Divide and Conquer
 |  |
 | ------- |
