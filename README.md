@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0027-remove-element) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1580-shuffle-the-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1580-shuffle-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0027-remove-element) |
 | [0633-sum-of-square-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
