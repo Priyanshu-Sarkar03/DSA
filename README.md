@@ -179,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
