@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2048-build-array-from-permutation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2058-concatenation-of-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
