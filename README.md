@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2048-build-array-from-permutation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
@@ -205,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
