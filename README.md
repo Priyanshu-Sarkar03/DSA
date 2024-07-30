@@ -225,4 +225,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
