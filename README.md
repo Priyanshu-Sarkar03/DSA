@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0739-daily-temperatures) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
