@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -298,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
