@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0739-daily-temperatures) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1046-max-consecutive-ones-iii) |
