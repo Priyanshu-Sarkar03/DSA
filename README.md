@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Tree
