@@ -6,7 +6,7 @@ public:
         int cnt = 0; // Count of subarrays that sum to 'k'
         
         // Initialize the map to handle the case where a subarray starts from index 0
-        map[0] = 1;
+       map[0] = 1;
         
         for (int i = 0; i < nums.size(); i++) {
             sum += nums[i]; // Update the prefix sum
