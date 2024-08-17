@@ -10,7 +10,7 @@ public:
         unordered_map<int, int> ans;
 
         // Step 3: Variable to store the remaining value (the value needed to reach 'target')
-        int rem = -1;
+        int rem = 0;
 
         // Step 4: Loop through each element in the 'nums' array
         for (int i = 0; i < nums.size(); i++) {
