@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0143-reorder-list) |
