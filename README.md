@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0443-string-compression](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0443-string-compression) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/3194-find-words-containing-character) |
 ## Sorting
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
