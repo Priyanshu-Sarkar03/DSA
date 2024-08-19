@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0443-string-compression) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
