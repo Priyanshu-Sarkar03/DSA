@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
