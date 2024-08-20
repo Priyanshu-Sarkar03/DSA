@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0443-string-compression) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
