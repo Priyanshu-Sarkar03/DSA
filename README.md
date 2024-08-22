@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -339,8 +341,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
