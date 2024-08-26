@@ -17,20 +17,20 @@ public:
             return 0;
         }
         int h1 = height(root->left);
-        if(h1==-1)
-        return -1;
+        if (h1 == -1)
+            return -1;
         int h2 = height(root->right);
-        if(h2==-1)
-        return -1;
-        if(abs(h1-h2)>1)
-        return -1;
+        if (h2 == -1)
+            return -1;
+        if (abs(h1 - h2) > 1)
+            return -1;
         int height = max(h1, h2) + 1;
         return height;
     }
     bool isBalanced(TreeNode* root) {
-       int ans=height(root);
-       if(ans==-1)
-       return false;
-       return true;
+        int ans = height(root);
+        if (ans == -1)
+            return false;
+        return true;
     }
 };
