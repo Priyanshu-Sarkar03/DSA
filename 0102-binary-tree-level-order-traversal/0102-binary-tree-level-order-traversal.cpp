@@ -24,11 +24,12 @@ public:
             for (int i = 0; i < level; i++) {
                 TreeNode* temp = q.front();
                 q.pop();
+                lvl.push_back(temp->val);
                 if (temp->left != NULL)
                     q.push(temp->left);
                 if (temp->right != NULL)
                     q.push(temp->right);
-                lvl.push_back(temp->val);
+                
             }
             ans.push_back(lvl);
         }
