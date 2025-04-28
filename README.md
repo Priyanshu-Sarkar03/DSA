@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/0268-missing-number) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Priyanshu-Sarkar03/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Counting
